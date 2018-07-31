@@ -17,3 +17,8 @@ Implemented Bridson's algorithm. This algorithm generates fairly evenly spaced p
 
 ![Image of a coloured voronoi diagram](./img/Bridsons.png)
 
+#### R1D4 
+
+Generic vectors in C: One of C's limitations is no type safe generic functions. You either use void* or macros. Macros end up inlined everywhere and void* is a bit unsafe. I have a solution that solves both problems:
+
+[Link](https://t.co/CNVp9e589S)
