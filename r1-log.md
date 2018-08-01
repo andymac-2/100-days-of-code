@@ -22,3 +22,9 @@ Implemented Bridson's algorithm. This algorithm generates fairly evenly spaced p
 Generic vectors in C: One of C's limitations is no type safe generic functions. You either use void* or macros. Macros end up inlined everywhere and void* is a bit unsafe. I have a solution that solves both problems:
 
 [Link](https://t.co/CNVp9e589S)
+
+#### R1D5
+
+I used Godot's surface tool to generate the voronoi diagrams as a 3D mesh. Next step is to generate a maze from them and add textures.
+
+![Image of a 3D voronoi diagram](./img/Voronoi3d.png)
