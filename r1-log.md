@@ -28,3 +28,9 @@ Generic vectors in C: One of C's limitations is no type safe generic functions. 
 I used Godot's surface tool to generate the voronoi diagrams as a 3D mesh. Next step is to generate a maze from them and add textures.
 
 ![Image of a 3D voronoi diagram](./img/Voronoi3d.png)
+
+#### R1D6
+
+Day 6 #100DaysOfCode : Something simple. Using the Surface tool in Godot to draw procedural meshes. Also learning a bit more Coq and Category theory for something completely different.
+
+![Image of a 3D voronoi diagram](./img/SurfaceTool.png)
